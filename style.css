@@ -20,6 +20,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 140px;
 }
 .half-width{
     width:50%;
@@ -32,7 +33,7 @@ section{
 .half{
     padding-left: 5%;
 }
-#hire_button{
+.hire-button{
     background-image: linear-gradient(rgb(175, 60, 6),orange);
     font-size: 20px;
     text-decoration: none;
@@ -46,6 +47,11 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-
+.dream-big{
+    background-image: url(images/pure-white-background-85a2a7fd\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 200px;
+}
 /*border-image: linear-gradient(salmon,tomato);
 border-image-slice: 1;*/
