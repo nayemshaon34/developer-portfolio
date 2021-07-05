@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 50px;
+    
+}
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    
+}
+#header-color{
+    color:orange;
+}
+section{
+    display: flex;
+    margin-bottom: 140px;
+}
+.half-width {
+    width:50%;
+}
+.half-width img{
+    width:85%;
+    padding:5%; 
+    
+}
+.half-width p,h1,h3{
+    padding-left: 55%;
+}
